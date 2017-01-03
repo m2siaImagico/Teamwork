@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/save.jpg</file>
+        <file>ajouterdialogfiche.cpp</file>
+        <file>ajouterdialogfiche.h</file>
+        <file>fichetechniqueimage.cpp</file>
+        <file>fichetechniqueimage.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>recherchedialogfiche.cpp</file>
+        <file>recherchedialogfiche.h</file>
+    </qresource>
+</RCC>

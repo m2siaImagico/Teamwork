@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/RC">
+        <file>img/save.jpg</file>
+        <file>img/open.jpg</file>
+        <file>img/search.jpg</file>
+        <file>img/add.jpg</file>
+        <file>img/delete.jpg</file>
+        <file>img/close.jpg</file>
+        <file>img/trier.jpg</file>
+    </qresource>
+</RCC>
